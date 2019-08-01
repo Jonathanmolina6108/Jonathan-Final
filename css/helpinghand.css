@@ -1,0 +1,72 @@
+/*GLOAL SETTINGS*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body  {
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+}
+
+fieldset  {
+  margin-bottom: 30px;
+  border: none;
+}
+
+legend  {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px
+}
+
+label.light {
+  font-weight: 300;
+  display: inline;
+}
+
+button  {
+  color: #000000;
+  background-color: #98A2EE;
+  font-size: 15px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 2px;
+  width: 100%;
+  border: 1px solid #98A2EE;
+  border-width: 1px 1px 1px 1px;
+  margin-bottom: 10px;
+}
+
+ul  {
+  padding: 1px;
+}
+
+ .card{
+   display: table-row;
+   position: static;
+   vertical-align: baseline;
+ }
+
+ #nav-item  {
+   display: block;
+ }
+
+tr.time {
+  background-color: #ebebeb;
+}
+
+textarea  {
+  font-weight: bolder;
+  font-style: italic;
+}
